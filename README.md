@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+My name is Caleb, I play the trumpet, and this is my first repository!
